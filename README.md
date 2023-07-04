@@ -1,9 +1,17 @@
 # Olá! Eu sou o Diogo...
 ---
 
-- 💼 Desenvolvedor com foco no Front-End com habilidades também de back-end.
-- 📚 Atualmente estudando o framework ANGULAR com TYPESCRIPT. Back-end com NodeJs. PostgreSQL e MONGODB como banco de dados.
+- 💼 Desenvolvedor Full-Stack em constante evolução.
+- 📚 Atualmente estudando:
+  - JavaScript/TypeScript, HTML, CSS, Angular (Framework), React (Biblioteca) para o Front-End.
+  - PHP, NodeJs para Back-End. 
+  - MySQL, PostgreSQL e MONGODB para banco de dados.
 - A procura de emprego.
+
+---
+## [GitHub/REPOSITÓRIO SECUNDÁRIO - foco em práticas, exercícios e cursos](https://github.com/Diguim)
+
+---
 
 <div><br>
   <a href="https://www.linkedin.com/in/diogootoni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
