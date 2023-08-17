@@ -2,9 +2,13 @@
 ---
 
 - 💼 Desenvolvedor Full-Stack em constante evolução.
-- 📚 Atualmente estudando:
-  - JavaScript/TypeScript, HTML, CSS, Angular (Framework), React (Biblioteca) para o Front-End.
-  - PHP, NodeJs para Back-End. 
+- 📚 Stacks Front-End:
+  - JavaScript/TypeScript,
+  - HTML, CSS
+  - Angular (Framework), React (Biblioteca)
+- 📚 Stacks Back-End
+  - Java
+  - Node.js
   - MySQL, PostgreSQL e MONGODB para banco de dados.
 - A procura de emprego.
 
@@ -25,7 +29,7 @@
 ---
   
 [![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoOtoni&show_icons=true&theme=onedark)](https://github.com/DiogoOtoni/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoOtoni&layout=compact&theme=onedark&hide_progress=true)](https://github.com/DiogoOtoni/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoOtoni&layout=compact&theme=onedark)](https://github.com/DiogoOtoni/github-readme-stats)
 
 ---
 
