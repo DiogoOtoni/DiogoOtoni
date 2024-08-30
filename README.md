@@ -1,16 +1,15 @@
 # Olá! Eu sou o Diogo...
 ---
 
-- 💼 Desenvolvedor Full-Stack em constante evolução.
-- 📚 Stacks Front-End:
+- 💼 Dev Full-Stack
   - JavaScript/TypeScript,
-  - HTML, CSS
-  - Angular (Framework), React (Biblioteca)
-- 📚 Stacks Back-End
+  - Angular
   - Java
   - Node.js
-  - MySQL, PostgreSQL e MONGODB
-- A procura de emprego.
+  - NestJs
+  - MySQL
+  - PostgreSQL
+  - MONGODB
 
 ---
 ## [GitHub/REPOSITÓRIO SECUNDÁRIO - foco em práticas, exercícios e cursos](https://github.com/Diguim)
