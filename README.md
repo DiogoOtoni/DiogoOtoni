@@ -1,12 +1,11 @@
 # Olá! Eu sou o Diogo...
 ---
 
-- 💼 Dev Full-Stack
-  - JavaScript/TypeScript,
-  - Angular
+- 💼 Desenvolvedor de software
   - Java
+  - Angular
   - Node.js
-  - NestJs
+  - React
   - MySQL
   - PostgreSQL
   - MONGODB
@@ -25,8 +24,8 @@
 
 ---
   
-[![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoOtoni&show_icons=true&theme=onedark)](https://github.com/DiogoOtoni/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoOtoni&layout=compact&theme=onedark)](https://github.com/DiogoOtoni/github-readme-stats)
+[![Diogo's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=DiogoOtoni&show_icons=true&theme=onedark)](https://github.com/DiogoOtoni/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DiogoOtoni&layout=compact&theme=onedark)](https://github.com/DiogoOtoni/github-readme-stats)
 
 ---
 
